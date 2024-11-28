@@ -6,9 +6,9 @@
 
 2.NER model training
 
-3.QA chat
+3.LLM deployment
 
-4.LLM deployment
+4.QA chat
 
 ## Requirements.txt
 

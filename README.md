@@ -8,6 +8,8 @@
 
 3.QA chat
 
+4.LLM deployment
+
 ## Requirements.txt
 
 ```

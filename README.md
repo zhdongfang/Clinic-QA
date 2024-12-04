@@ -33,5 +33,5 @@ typer==0.12.3
 zhipuai==2.0.1
 ```
 
-邮箱：dongfang@hait.edu.cn
+email：dongfang@hait.edu.cn
 

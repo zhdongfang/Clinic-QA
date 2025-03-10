@@ -1,5 +1,3 @@
-# cmedragbot
-
 ## Python project setup
 
 ```
